@@ -1,0 +1,3 @@
+Este proyecto se me complico un poco ya que en el token no me dejaba entrar para que 
+pudiera hacer acciones con mis usuarios al momento de loguearse, me costo un poco 
+esta parte ya que realmente en rest framework se lo basico y por eso se me complico un poco
