@@ -1,0 +1,12 @@
+1° Crear un entorno en python desde la linea de comandos:
+python3 -m venv comercio
+comercio\Scripts\activate.bat
+
+2° abrir la termina cmd en el directorio y poner:
+pip install -r requirements.txt
+
+3°Creamos las migraciones para la base de datos que es sqlite3:
+python manage.py migrate
+
+4°En consola poner:
+python manage.py runserver
